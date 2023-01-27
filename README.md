@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Preksha Thakkar</h1>
+<h1 align="center">Hey 👋, I'm Preksha Thakkar</h1>
 <h3 align="center">A passionate and enthusiastic Web Developer and Machine Learning engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prekshathakkar51&label=Profile%20views&color=0e75b6&style=flat" alt="vedant755" /> </p>
@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/PrekshaThakkar8" target="blank"><img src="https://img.shields.io/twitter/follow/PrekshaThakkar5?logo=twitter&style=for-the-badge" alt="PrekshaThakkar8" /></a> </p>
 
 - 📫 How to reach me **prekshathakkar5@gmail.com**
+
+- 🌱 I’m currently learning **React.Js**
+
+- 👯 I’m looking to collaborate on **
 
 - ⚡ Fun fact **I like to converse with techgeeks much often.**
 
