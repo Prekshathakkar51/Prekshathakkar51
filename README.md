@@ -32,17 +32,17 @@
 
 <h2 align="center">Connect with me 🤝</h2>
 <p align="center">
-<a href="https://dev.to/prekshathakkar51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prekshathakkar51" height="60" width="60" /></a>
+<a href="https://dev.to/prekshathakkar51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prekshathakkar51" height="50" width="60" /></a>
 
-<a href="https://twitter.com/PrekshaThakkar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PrekshaThakkar8" height="60" width="60" /></a>
+<a href="https://twitter.com/PrekshaThakkar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PrekshaThakkar8" height="50" width="60" /></a>
 
-<a href="https://prekshathakkar.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="chrysaor" height="60" width="60" /></a>
+<a href="https://prekshathakkar.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="chrysaor" height="50" width="60" /></a>
 
-<a href="https://www.linkedin.com/in/preksha-thakkar-816630207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Preksha Thakkar" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/preksha-thakkar-816630207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Preksha Thakkar" height="50" width="60" /></a>
 
-<a href="https://instagram.com/pprekshathakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pprekshathakkar" height="60" width="60" /></a>
+<a href="https://instagram.com/pprekshathakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pprekshathakkar" height="50" width="60" /></a>
 
-<a href="https://leetcode.com/Preksha_Thakkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Preksha_Thakkar" height="60" width="60" /></a>
+<a href="https://leetcode.com/Preksha_Thakkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Preksha_Thakkar" height="50" width="60" /></a>
 </p>
 
 <h2 align="center">Languages and Tools 💻</h2>
