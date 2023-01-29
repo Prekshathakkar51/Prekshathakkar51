@@ -66,9 +66,6 @@
 <div align="center" style="margin-bottom:20px"><img align="center" src="https://streak-stats.demolab.com?user=prekshathakkar51&theme=tokyonight" alt="prekshathakkar51"/></div>
 &nbsp
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prekshathakkar51&margin-w=6&theme=tokyonight" alt="prekshathakkar51" /></a> </p>
-
-<a href="http://www.github.com/prekshathakkar51"><img src="https://activity-graph.herokuapp.com/graph?username=prekshathakkar51&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prekshathakkar51&show_icons=true&locale=en&layout=compact" alt="prekshathakkar51" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prekshathakkar51&show_icons=true&locale=en" alt="prekshathakkar51" /></p>
@@ -79,7 +76,7 @@
 <h2 align="center">Experience 🚀</h2>
 <table>
 <tr>
-<th width="38%">
+<th>
 Student Intern at King Mongkut's Institute of Technology Ladkrabang, Research institution in Bangkok, Thailand.
 </th>
 <th>
