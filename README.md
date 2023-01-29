@@ -65,7 +65,7 @@
 </table>
 <div align="center" style="margin-bottom:20px"><img align="center" src="https://streak-stats.demolab.com?user=prekshathakkar51&theme=tokyonight" alt="prekshathakkar51"/></div>
 &nbsp
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prekshathakkar51&margin-w=6&theme=tokyonight" alt="prekshathakkar51" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prekshathakkar51&margin-w=6&theme=tokyonight" alt="prekshathakkar51" /></a> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prekshathakkar51&show_icons=true&locale=en&layout=compact" alt="prekshathakkar51" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prekshathakkar51&show_icons=true&locale=en" alt="prekshathakkar51" /></p>
